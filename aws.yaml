@@ -2,5 +2,6 @@ hi this in aws
 this is after connecting git 
 for commit
 #print "AWS"
-
+#print GCP
+#print AZURE
 
